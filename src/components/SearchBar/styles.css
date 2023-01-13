@@ -1,5 +1,6 @@
 .ct-search-bar {
     display: flex;
+
 }
 
 .ct-search-bar input {
@@ -20,6 +21,7 @@
 }
 
 .ct-form-control {
+
     height: 40px;
     width: 100%;
 }
