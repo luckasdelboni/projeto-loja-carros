@@ -1,0 +1,13 @@
+#ct-catalog-section {
+    padding: 40px 0;
+}
+
+.ct-catalog-main {
+    padding: 0 10px;
+}
+
+@media (min-width:576px) {
+    .ct-catalog-main {
+        padding: 0 20px;
+    }
+}
